@@ -1,0 +1,1926 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+  {
+      "type": "Feature",
+      "id": "am002707",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.88861,
+                33.29528
+            ],
+            [
+                34.88861,
+                32.93417
+            ],
+            [
+                35.31667,
+                32.93417
+            ],
+            [
+                35.31667,
+                33.29528
+            ],
+            [
+                34.88861,
+                33.29528
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "1",
+    "datePub": "1976",
+    "west": 34.88861,
+    "east": 35.31667,
+    "north": 33.29528,
+    "south": 32.93417,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1975",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25000/rec/1",
+    "recId": "am002707"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002707",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.88861,
+                33.29528
+            ],
+            [
+                34.88861,
+                32.93417
+            ],
+            [
+                35.31667,
+                32.93417
+            ],
+            [
+                35.31667,
+                33.29528
+            ],
+            [
+                34.88861,
+                33.29528
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "1",
+    "datePub": "1969",
+    "west": 34.88861,
+    "east": 35.31667,
+    "north": 33.29528,
+    "south": 32.93417,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25000/rec/1",
+    "recId": "am002707"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002708",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                35.31639,
+                33.38334
+            ],
+            [
+                35.31639,
+                32.93472
+            ],
+            [
+                35.96167,
+                32.93472
+            ],
+            [
+                35.96167,
+                33.38334
+            ],
+            [
+                35.31639,
+                33.38334
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "2",
+    "datePub": "1977",
+    "west": 35.31639,
+    "east": 35.96167,
+    "north": 33.38334,
+    "south": 32.93472,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1977",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/24999/rec/6",
+    "recId": "am002708"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002708",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                35.31639,
+                33.38334
+            ],
+            [
+                35.31639,
+                32.93472
+            ],
+            [
+                35.96167,
+                32.93472
+            ],
+            [
+                35.96167,
+                33.38334
+            ],
+            [
+                35.31639,
+                33.38334
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "2",
+    "datePub": "1970",
+    "west": 35.31639,
+    "east": 35.96167,
+    "north": 33.38334,
+    "south": 32.93472,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1969",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/24999/rec/6",
+    "recId": "am002708"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002709 ",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.89,
+                32.93472
+            ],
+            [
+                34.89,
+                32.57361
+            ],
+            [
+                35.31639,
+                32.57361
+            ],
+            [
+                35.31639,
+                32.93472
+            ],
+            [
+                34.89,
+                32.93472
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "3",
+    "datePub": "1977",
+    "west": 34.89,
+    "east": 35.31639,
+    "north": 32.93472,
+    "south": 32.57361,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1974",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25004/rec/10",
+    "recId": "am002709 "
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002709 ",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.89,
+                32.93472
+            ],
+            [
+                34.89,
+                32.57361
+            ],
+            [
+                35.31639,
+                32.57361
+            ],
+            [
+                35.31639,
+                32.93472
+            ],
+            [
+                34.89,
+                32.93472
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "3",
+    "datePub": "1969",
+    "west": 34.89,
+    "east": 35.31639,
+    "north": 32.93472,
+    "south": 32.57361,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25004/rec/10",
+    "recId": "am002709 "
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002710",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                35.31583,
+                32.9325
+            ],
+            [
+                35.31583,
+                32.57389
+            ],
+            [
+                35.95778,
+                32.57389
+            ],
+            [
+                35.95778,
+                32.9325
+            ],
+            [
+                35.31583,
+                32.9325
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "4",
+    "datePub": "1975",
+    "west": 35.31583,
+    "east": 35.95778,
+    "north": 32.9325,
+    "south": 32.57389,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1975",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25012/rec/18",
+    "recId": "am002710"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002710",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                35.31583,
+                32.9325
+            ],
+            [
+                35.31583,
+                32.57389
+            ],
+            [
+                35.95778,
+                32.57389
+            ],
+            [
+                35.95778,
+                32.9325
+            ],
+            [
+                35.31583,
+                32.9325
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "4",
+    "datePub": "1970",
+    "west": 35.31583,
+    "east": 35.95778,
+    "north": 32.9325,
+    "south": 32.57389,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1969",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25012/rec/18",
+    "recId": "am002710"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002711",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.785,
+                32.57111
+            ],
+            [
+                34.785,
+                32.2125
+            ],
+            [
+                35.31583,
+                32.2125
+            ],
+            [
+                35.31583,
+                32.57111
+            ],
+            [
+                34.785,
+                32.57111
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "5",
+    "datePub": "1975",
+    "west": 34.785,
+    "east": 35.31583,
+    "north": 32.57111,
+    "south": 32.2125,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1975",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25016/rec/22",
+    "recId": "am002711"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002711",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.785,
+                32.57111
+            ],
+            [
+                34.785,
+                32.2125
+            ],
+            [
+                35.31583,
+                32.2125
+            ],
+            [
+                35.31583,
+                32.57111
+            ],
+            [
+                34.785,
+                32.57111
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "5",
+    "datePub": "1968",
+    "west": 34.785,
+    "east": 35.31583,
+    "north": 32.57111,
+    "south": 32.2125,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25016/rec/22",
+    "recId": "am002711"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002712",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                35.31556,
+                32.57278
+            ],
+            [
+                35.31556,
+                32.21333
+            ],
+            [
+                35.74194,
+                32.21333
+            ],
+            [
+                35.74194,
+                32.57278
+            ],
+            [
+                35.31556,
+                32.57278
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "6",
+    "datePub": "1976",
+    "west": 35.31556,
+    "east": 35.74194,
+    "north": 32.57278,
+    "south": 32.21333,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25002/rec/8",
+    "recId": "am002712"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002712",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                35.31556,
+                32.57278
+            ],
+            [
+                35.31556,
+                32.21333
+            ],
+            [
+                35.74194,
+                32.21333
+            ],
+            [
+                35.74194,
+                32.57278
+            ],
+            [
+                35.31556,
+                32.57278
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "6",
+    "datePub": "1967",
+    "west": 35.31556,
+    "east": 35.74194,
+    "north": 32.57278,
+    "south": 32.21333,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25002/rec/8",
+    "recId": "am002712"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002713",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.46972,
+                32.21278
+            ],
+            [
+                34.46972,
+                31.85028
+            ],
+            [
+                34.89111,
+                31.85028
+            ],
+            [
+                34.89111,
+                32.21278
+            ],
+            [
+                34.46972,
+                32.21278
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "7",
+    "datePub": "1969",
+    "west": 34.46972,
+    "east": 34.89111,
+    "north": 32.21278,
+    "south": 31.85028,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25006/rec/12",
+    "recId": "am002713"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002713",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.66667,
+                32.21333
+            ],
+            [
+                34.66667,
+                31.85139
+            ],
+            [
+                35.31556,
+                31.85139
+            ],
+            [
+                35.31556,
+                32.21333
+            ],
+            [
+                34.66667,
+                32.21333
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "07,08",
+    "datePub": "2000",
+    "west": 34.66667,
+    "east": 35.31556,
+    "north": 32.21333,
+    "south": 31.85139,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "2000",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25006/rec/12",
+    "recId": "am002713"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002714",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                35.315,
+                32.21222
+            ],
+            [
+                35.315,
+                31.8525
+            ],
+            [
+                35.73972,
+                31.8525
+            ],
+            [
+                35.73972,
+                32.21222
+            ],
+            [
+                35.315,
+                32.21222
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "9",
+    "datePub": "1976",
+    "west": 35.315,
+    "east": 35.73972,
+    "north": 32.21222,
+    "south": 31.8525,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25008/rec/14",
+    "recId": "am002714"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002714",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                35.315,
+                32.21222
+            ],
+            [
+                35.315,
+                31.8525
+            ],
+            [
+                35.73972,
+                31.8525
+            ],
+            [
+                35.73972,
+                32.21222
+            ],
+            [
+                35.315,
+                32.21222
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "9",
+    "datePub": "1969",
+    "west": 35.315,
+    "east": 35.73972,
+    "north": 32.21222,
+    "south": 31.8525,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25008/rec/14",
+    "recId": "am002714"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002715",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.36417,
+                31.85222
+            ],
+            [
+                34.36417,
+                31.48889
+            ],
+            [
+                34.89361,
+                31.48889
+            ],
+            [
+                34.89361,
+                31.85222
+            ],
+            [
+                34.36417,
+                31.85222
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "10",
+    "datePub": "1976",
+    "west": 34.36417,
+    "east": 34.89361,
+    "north": 31.85222,
+    "south": 31.48889,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25013/rec/19",
+    "recId": "am002715"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002715",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.36417,
+                31.85222
+            ],
+            [
+                34.36417,
+                31.48889
+            ],
+            [
+                34.89361,
+                31.48889
+            ],
+            [
+                34.89361,
+                31.85222
+            ],
+            [
+                34.36417,
+                31.85222
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "10",
+    "datePub": "1968",
+    "west": 34.36417,
+    "east": 34.89361,
+    "north": 31.85222,
+    "south": 31.48889,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1959",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25013/rec/19",
+    "recId": "am002715"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002716",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.8925,
+                31.8525
+            ],
+            [
+                34.8925,
+                31.49139
+            ],
+            [
+                35.315,
+                31.49139
+            ],
+            [
+                35.315,
+                31.8525
+            ],
+            [
+                34.8925,
+                31.8525
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "11",
+    "datePub": "1974",
+    "west": 34.8925,
+    "east": 35.315,
+    "north": 31.8525,
+    "south": 31.49139,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1974",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25001/rec/7",
+    "recId": "am002716"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002716",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.89917,
+                31.8525
+            ],
+            [
+                34.89917,
+                31.49139
+            ],
+            [
+                35.315,
+                31.49139
+            ],
+            [
+                35.315,
+                31.8525
+            ],
+            [
+                34.89917,
+                31.8525
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "11",
+    "datePub": "1969",
+    "west": 34.89917,
+    "east": 35.315,
+    "north": 31.8525,
+    "south": 31.49139,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25001/rec/7",
+    "recId": "am002716"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002716",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.8925,
+                31.85222
+            ],
+            [
+                34.8925,
+                31.49139
+            ],
+            [
+                35.57917,
+                31.49139
+            ],
+            [
+                35.57917,
+                31.85222
+            ],
+            [
+                34.8925,
+                31.85222
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "11,12",
+    "datePub": "1976",
+    "west": 34.8925,
+    "east": 35.57917,
+    "north": 31.85222,
+    "south": 31.49139,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25001/rec/7",
+    "recId": "am002716"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002717",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.05167,
+                31.48972
+            ],
+            [
+                34.05167,
+                31.12583
+            ],
+            [
+                34.47556,
+                31.12583
+            ],
+            [
+                34.47556,
+                31.48972
+            ],
+            [
+                34.05167,
+                31.48972
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "13",
+    "datePub": "1976",
+    "west": 34.05167,
+    "east": 34.47556,
+    "north": 31.48972,
+    "south": 31.12583,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/24997/rec/4",
+    "recId": "am002717"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002717",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.05167,
+                31.48972
+            ],
+            [
+                34.05167,
+                31.12583
+            ],
+            [
+                34.47556,
+                31.12583
+            ],
+            [
+                34.47556,
+                31.48972
+            ],
+            [
+                34.05167,
+                31.48972
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "13",
+    "datePub": "1968",
+    "west": 34.05167,
+    "east": 34.47556,
+    "north": 31.48972,
+    "south": 31.12583,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/24997/rec/4",
+    "recId": "am002717"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002718",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.47556,
+                31.49139
+            ],
+            [
+                34.47556,
+                31.12889
+            ],
+            [
+                34.89361,
+                31.12889
+            ],
+            [
+                34.89361,
+                31.49139
+            ],
+            [
+                34.47556,
+                31.49139
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "14",
+    "datePub": "1976",
+    "west": 34.47556,
+    "east": 34.89361,
+    "north": 31.49139,
+    "south": 31.12889,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25007/rec/13",
+    "recId": "am002718"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002718",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.47556,
+                31.49139
+            ],
+            [
+                34.47556,
+                31.12889
+            ],
+            [
+                34.89361,
+                31.12889
+            ],
+            [
+                34.89361,
+                31.49139
+            ],
+            [
+                34.47556,
+                31.49139
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "14",
+    "datePub": "1969",
+    "west": 34.47556,
+    "east": 34.89361,
+    "north": 31.49139,
+    "south": 31.12889,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25007/rec/13",
+    "recId": "am002718"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002719",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.89361,
+                31.49139
+            ],
+            [
+                34.89361,
+                31.13056
+            ],
+            [
+                35.57778,
+                31.13056
+            ],
+            [
+                35.57778,
+                31.49139
+            ],
+            [
+                34.89361,
+                31.49139
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "15,16",
+    "datePub": "1977",
+    "west": 34.89361,
+    "east": 35.57778,
+    "north": 31.49139,
+    "south": 31.13056,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25009/rec/15",
+    "recId": "am002719"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002720",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.06056,
+                31.12889
+            ],
+            [
+                34.06056,
+                30.765
+            ],
+            [
+                34.47556,
+                30.765
+            ],
+            [
+                34.47556,
+                31.12889
+            ],
+            [
+                34.06056,
+                31.12889
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "17",
+    "datePub": "1977",
+    "west": 34.06056,
+    "east": 34.47556,
+    "north": 31.12889,
+    "south": 30.765,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25011/rec/17",
+    "recId": "am002720"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002720",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.06056,
+                31.12889
+            ],
+            [
+                34.06056,
+                30.765
+            ],
+            [
+                34.47556,
+                30.765
+            ],
+            [
+                34.47556,
+                31.12889
+            ],
+            [
+                34.06056,
+                31.12889
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "17",
+    "datePub": "1968",
+    "west": 34.06056,
+    "east": 34.47556,
+    "north": 31.12889,
+    "south": 30.765,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25011/rec/17",
+    "recId": "am002720"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002721",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.47833,
+                31.13056
+            ],
+            [
+                34.47833,
+                30.76806
+            ],
+            [
+                34.895,
+                30.76806
+            ],
+            [
+                34.895,
+                31.13056
+            ],
+            [
+                34.47833,
+                31.13056
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "18",
+    "datePub": "1977",
+    "west": 34.47833,
+    "east": 34.895,
+    "north": 31.13056,
+    "south": 30.76806,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25005/rec/11",
+    "recId": "am002721"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002722",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.89611,
+                31.13083
+            ],
+            [
+                34.89611,
+                30.76972
+            ],
+            [
+                35.31417,
+                30.76972
+            ],
+            [
+                35.31417,
+                31.13083
+            ],
+            [
+                34.89611,
+                31.13083
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "19",
+    "datePub": "1968",
+    "west": 34.89611,
+    "east": 35.31417,
+    "north": 31.13083,
+    "south": 30.76972,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25010/rec/16",
+    "recId": "am002722"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002722",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.895,
+                31.13056
+            ],
+            [
+                34.895,
+                30.76972
+            ],
+            [
+                35.52389,
+                30.76972
+            ],
+            [
+                35.52389,
+                31.13056
+            ],
+            [
+                34.895,
+                31.13056
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "19,20",
+    "datePub": "1977",
+    "west": 34.895,
+    "east": 35.52389,
+    "north": 31.13056,
+    "south": 30.76972,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25010/rec/16",
+    "recId": "am002722"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002723",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.48111,
+                30.76972
+            ],
+            [
+                34.48111,
+                30.40722
+            ],
+            [
+                34.89611,
+                30.40722
+            ],
+            [
+                34.89611,
+                30.76972
+            ],
+            [
+                34.48111,
+                30.76972
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "21",
+    "datePub": "1968",
+    "west": 34.48111,
+    "east": 34.89611,
+    "north": 30.76972,
+    "south": 30.40722,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/24998/rec/5",
+    "recId": "am002723"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002724 ",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.89722,
+                30.77028
+            ],
+            [
+                34.89722,
+                30.40889
+            ],
+            [
+                35.31389,
+                30.40889
+            ],
+            [
+                35.31389,
+                30.77028
+            ],
+            [
+                34.89722,
+                30.77028
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "22",
+    "datePub": "1968",
+    "west": 34.89722,
+    "east": 35.31389,
+    "north": 30.77028,
+    "south": 30.40889,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25015/rec/21",
+    "recId": "am002724 "
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002725",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.48361,
+                30.40889
+            ],
+            [
+                34.48361,
+                30.04639
+            ],
+            [
+                34.89722,
+                30.04639
+            ],
+            [
+                34.89722,
+                30.40889
+            ],
+            [
+                34.48361,
+                30.40889
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "23",
+    "datePub": "1977",
+    "west": 34.48361,
+    "east": 34.89722,
+    "north": 30.40889,
+    "south": 30.04639,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1976",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25003/rec/9",
+    "recId": "am002725"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002725",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.48361,
+                30.40889
+            ],
+            [
+                34.48361,
+                30.04639
+            ],
+            [
+                34.89722,
+                30.04639
+            ],
+            [
+                34.89722,
+                30.40889
+            ],
+            [
+                34.48361,
+                30.40889
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "23",
+    "datePub": "1968",
+    "west": 34.48361,
+    "east": 34.89722,
+    "north": 30.40889,
+    "south": 30.04639,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25003/rec/9",
+    "recId": "am002725"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002726",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.898333,
+                30.409444
+            ],
+            [
+                34.898333,
+                30.048056
+            ],
+            [
+                35.313611,
+                30.048056
+            ],
+            [
+                35.313611,
+                30.409444
+            ],
+            [
+                34.898333,
+                30.409444
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "24",
+    "datePub": "1999",
+    "west": 34.89833333,
+    "east": 35.31361111,
+    "north": 30.40944444,
+    "south": 30.04805556,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1999",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25017/rec/23",
+    "recId": "am002726"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002727 ",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.69278,
+                30.04861
+            ],
+            [
+                34.69278,
+                29.68667
+            ],
+            [
+                35.10584,
+                29.68667
+            ],
+            [
+                35.10584,
+                30.04861
+            ],
+            [
+                34.69278,
+                30.04861
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "25",
+    "datePub": "1977",
+    "west": 34.69278,
+    "east": 35.10584,
+    "north": 30.04861,
+    "south": 29.68667,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1977",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25014/rec/20",
+    "recId": "am002727 "
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002727 ",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.69278,
+                30.04861
+            ],
+            [
+                34.69278,
+                29.68667
+            ],
+            [
+                35.10584,
+                29.68667
+            ],
+            [
+                35.10584,
+                30.04861
+            ],
+            [
+                34.69278,
+                30.04861
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "25",
+    "datePub": "1968",
+    "west": 34.69278,
+    "east": 35.10584,
+    "north": 30.04861,
+    "south": 29.68667,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1967",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25014/rec/20",
+    "recId": "am002727 "
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002728",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.69472,
+                29.6875
+            ],
+            [
+                34.69472,
+                29.32583
+            ],
+            [
+                35.10611,
+                29.32583
+            ],
+            [
+                35.10611,
+                29.6875
+            ],
+            [
+                34.69472,
+                29.6875
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "26",
+    "datePub": "1977",
+    "west": 34.69472,
+    "east": 35.10611,
+    "north": 29.6875,
+    "south": 29.32583,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1977",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25018/rec/24",
+    "recId": "am002728"
+}
+        },
+        {
+      "type": "Feature",
+      "id": "am002728",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+    [
+        [
+            [
+                34.69472,
+                29.6875
+            ],
+            [
+                34.69472,
+                29.32583
+            ],
+            [
+                35.10611,
+                29.32583
+            ],
+            [
+                35.10611,
+                29.6875
+            ],
+            [
+                34.69472,
+                29.6875
+            ]
+        ]
+    ]
+]},
+        "geometry_name": "geom",
+        "properties": {
+    "label": "26",
+    "datePub": "1968",
+    "west": 34.69472,
+    "east": 35.10611,
+    "north": 29.6875,
+    "south": 29.32583,
+    "scale": "100000",
+    "color": "31",
+    "dateSurvey": "1959",
+    "publisher": "Survey of Israel.",
+    "available": false,
+    "digHold": "https://collections.lib.uwm.edu/digital/collection/agdm/id/25018/rec/24",
+    "recId": "am002728"
+}
+        }
+        
+  ]
+}
